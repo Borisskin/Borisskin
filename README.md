@@ -1,6 +1,4 @@
 ### Всем привет 👋
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borisskin&langs_count=8&layout=compact)  
     
 ![profile](https://github-readme-stats.vercel.app/api?username=Borisskin&show_icons=true)  
 
@@ -17,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borisskin&langs_count=8&layout=compact)  
 -->
